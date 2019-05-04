@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - Chatting English Chinese</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Chatting English Chinese</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2019 19:41:07 +0800</lastBuildDate>
+    
+        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Big CS</title>
+      <link>http://example.org/posts/s01-01-big-cs/</link>
+      <pubDate>Sat, 04 May 2019 19:41:07 +0800</pubDate>
+      
+      <guid>http://example.org/posts/s01-01-big-cs/</guid>
+      <description>Hey How Are You</description>
+    </item>
+  </channel>
+</rss>
