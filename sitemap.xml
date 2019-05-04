@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/s01-01-big-cs/</loc>
+    <loc>https://chattingchineseenglish.github.io/posts/s01-01-big-cs/</loc>
     <lastmod>2019-05-04T19:41:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2019-05-04T19:41:07+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
+    <loc>https://chattingchineseenglish.github.io/categories/</loc>
     <lastmod>2019-05-04T19:41:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://chattingchineseenglish.github.io/</loc>
     <lastmod>2019-05-04T19:41:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/season1/</loc>
+    <loc>https://chattingchineseenglish.github.io/posts/</loc>
     <lastmod>2019-05-04T19:41:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://chattingchineseenglish.github.io/categories/season1/</loc>
+    <lastmod>2019-05-04T19:41:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chattingchineseenglish.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
