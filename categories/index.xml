@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - Chatting English Chinese</title>
-    <link>https://chattingchineseenglish.github.io/categories/</link>
-    <description>Recent content in Categories on Chatting English Chinese</description>
+    <title>Categories - the pen recorder</title>
+    <link>https://thepenrecorder.github.io/categories/</link>
+    <description>Recent content in Categories on the pen recorder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 May 2019 19:41:07 +0800</lastBuildDate>
     
-        <atom:link href="https://chattingchineseenglish.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://thepenrecorder.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Season1</title>
-      <link>https://chattingchineseenglish.github.io/categories/season1/</link>
+      <link>https://thepenrecorder.github.io/categories/season1/</link>
       <pubDate>Sat, 04 May 2019 19:41:07 +0800</pubDate>
       
-      <guid>https://chattingchineseenglish.github.io/categories/season1/</guid>
+      <guid>https://thepenrecorder.github.io/categories/season1/</guid>
       <description></description>
     </item>
   </channel>
